@@ -1,4 +1,4 @@
-# Saludo Personalizado
+# Buenas
 
 Este proyecto es una aplicación web simple que permite al usuario ingresar su nombre y recibir un saludo personalizado desde un servidor backend.
 
